@@ -3,4 +3,5 @@ export interface IListingOverview {
   title: string;
   creationDate: Date;
   price: string;
+  previewImageUrl: string;
 }
